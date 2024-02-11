@@ -15,7 +15,7 @@ x = 1
 
 def escopo():
      #global x
-     x = 10
+     x = 12
      
 
      def outra_funcao():
